@@ -1,0 +1,31 @@
+{
+  "name": "js-web-helpers",
+  "version": "0.0.1",
+  "description": "collection of commons web based js helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halceyon/js-web-helpers.git"
+  },
+  "author": "craigp@codehq.co.za",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Halceyon/js-web-helpers/issues"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.11.6"
+  },
+  "homepage": "https://github.com/Halceyon/js-web-helpers#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "del": "^3.0.0",
+    "rollup": "^0.66.1",
+    "rollup-plugin-babel": "^3.0.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "js-web-helpers",
+  "description": "collection of commons web based js helpers",
+  "main": "dist/js-web-helpers.js",
+  "authors": [
+    "craigp@codehq.co.za"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Halceyon/js-web-helpers",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
